@@ -1,1 +1,13 @@
-﻿<Properties StartupItem="NintyNineProblems/NintyNineProblems.fsproj" />
+﻿<Properties StartupItem="NintyNineProblems/NintyNineProblems.fsproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NintyNineProblems/ProblemsLists.fs">
+    <Files>
+      <File FileName="NintyNineProblems/Script.fsx" Line="24" Column="24" />
+      <File FileName="NintyNineProblems/ProblemsLists.fs" Line="48" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
